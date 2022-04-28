@@ -169,7 +169,7 @@
 <p><a href="https://github.com/EightFlix/Leech-Pro/wiki/Deploy-To-Heroku"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
 
 
-[![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
+[![MaxxRider](https://telegra.ph/file/b828b1e41e98c91847204.png)](https://telegram.dog/TeamYourX)
 
     
 ## CREDITS
